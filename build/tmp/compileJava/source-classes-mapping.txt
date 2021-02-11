@@ -1,0 +1,10 @@
+ar/com/cats/Cat.java
+ ar.com.cats.Cat
+ar/com/cats/Imagex.java
+ ar.com.cats.Imagex
+ar/com/cats/CatFav.java
+ ar.com.cats.CatFav
+ar/com/cats/CatService.java
+ ar.com.cats.CatService
+ar/com/cats/Main.java
+ ar.com.cats.Main
